@@ -8,7 +8,7 @@ Student Result Management System is my first Django project!! It's single user a
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/RiajulKashem/SRMS.git
+git clone https://github.com/SainiAyushi/SRMS.git
 ```
 Now enter the directory:  
 
